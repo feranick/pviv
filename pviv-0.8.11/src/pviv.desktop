@@ -1,0 +1,19 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PVIV
+Comment=Convert PV IV data into ASCII
+GenericName=PVIV
+Exec=pviv %u
+Terminal=true
+X-MultipleArgs=false
+Type=Application
+Icon=grace
+Categories=Education;Math;Science;
+MimeType=text/dat;text/csv;text/txt
+
+StartupNotify=false
+Name[en]=PVIV
+Name[en_US]=PVIV
+Comment[en_US]=Convert PV IV data into ASCII
